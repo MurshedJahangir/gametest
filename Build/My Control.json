@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "SecUnity Project",
+"dataUrl": "My Control.data.unityweb",
+"asmCodeUrl": "My Control.asm.code.unityweb",
+"asmMemoryUrl": "My Control.asm.memory.unityweb",
+"asmFrameworkUrl": "My Control.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
